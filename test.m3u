@@ -4,12 +4,5 @@
 #EXTINF:-1, India News
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
 
-#EXTINF:0,INDIAN_SONY_SAB_TV
-http://tvi.ddns.me:8000/live/rich/rich/1687.ts
-#EXTINF:0,INDIAN_ND_TV
-http://tvi.ddns.me:8000/live/rich/rich/1690.ts
-#EXTINF:0,INDIAN_NDTV_PROFIT
-http://tvi.ddns.me:8000/live/rich/rich/1688.ts
-#EXTINF:0,INDIAN_NDTV_INDIA
-http://tvi.ddns.me:8000/live/rich/rich/1689.ts
-
+#EXTINF:-1,DD News
+http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive.m3u8
