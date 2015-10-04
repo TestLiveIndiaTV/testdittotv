@@ -6,3 +6,12 @@ http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
 
 #EXTINF:-1,DD News
 http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive.m3u8
+
+#EXTINF:-1,ND TV
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:-1,NDTV 24×7
+http://bglive-a.bitgravity.com/ndtv/247lo/live/native
+#EXTINF:-1,NDTV India
+http://bglive-a.bitgravity.com/ndtv/indlo/live/native
+#EXTINF:-1,NDTV Profit
+http://bglive-a.bitgravity.com/ndtv/prolo/live/native
