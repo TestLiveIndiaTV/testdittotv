@@ -18,3 +18,52 @@ http://bglive-a.bitgravity.com/ndtv/prolo/live/native
 
 #EXTINF:-1,Tez TV Hindi
 http://yupptvrtmp-lh.akamaihd.net/i/blore_3@35266/master.m3u8
+
+#EXTINF:-1, COLORS
+rtmp://$OPT:rtmp-raw=rtmp://live3.dabang.pk:1935/tv/ playpath=colors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1
+
+#EXTINF:-1, STAR PLUS
+rtmp://$OPT:rtmp-raw=rtmp://live3.dabang.pk:1935/tv/ playpath=starplus swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1
+
+#EXTINF:-1, SONY
+rtmp://$OPT:rtmp-raw=rtmp://live3.dabang.pk:1935/tv/ playpath=sonytv swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1
+
+#EXTINF:-1, SONY SAB
+rtmp://$OPT:rtmp-raw=rtmp://live3.dabang.pk:1935/tv/ playpath=sonysab swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1
+
+#EXTINF:-1, SETMAX
+rtmp://$OPT:rtmp-raw=rtmp://live3.dabang.pk:1935/tv/ playpath=satmax swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1
+
+#EXTINF:-1, STAR GOLD
+rtmp://$OPT:rtmp-raw=rtmp://live3.dabang.pk:1935/tv/ playpath=stargold swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1
+
+#EXTINF:-1, ZEE SMILE
+rtmp://$OPT:rtmp-raw=rtmp://live3.dabang.pk:1935/tv/ playpath=zeecinema swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1
+
+#EXTINF:-Star Plus HD
+rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195092 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195092&width=620&height=490 token=deadsoon%%7
+
+#EXTINF:-Sony HD
+rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195093 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195093&width=620&height=490 token=deadsoon%%7
+
+#EXTINF:-Colors HD
+rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195094 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195094&width=620&height=490 token=deadsoon%%7
+
+Willow
+http://smarterapps.ddns.net:8080/Willo1w/Willo1jkTeR/index.m3u8
+
+Cartoon Network
+http://188.227.86.4:4022/udp/239.77.0.77:1234
+
+India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+
+BOLLYWOOD HUNGAMA
+rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
+
+NDTV 24×7
+http://bglive-a.bitgravity.com/ndtv/247lo/live/native
+
+Sony SAB TV
+rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp
+
